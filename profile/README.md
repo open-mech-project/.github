@@ -1,13 +1,5 @@
-## [mech open project.xlsx](https://1drv.ms/x/s!Aur3r7QoGN_Ha5Mr6lv7V3IhHUo?e=frHVnj)
-## [mech open project.step214](https://1drv.ms/u/s!Aur3r7QoGN_HfPXiWnlSEgt5xbU?e=wbcWp1)
+![scheme](https://github.com/open-mech-project/.github/assets/130750054/3e61ea6a-2e8b-4da0-80a2-d558e2aac7bf)
 
-<!--
+## [open mech project.xlsx](https://1drv.ms/x/s!Aj3vppp6FWCZbGc385J11F4d5nU?e=nKE6UU)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## [open mech project.step214](https://1drv.ms/u/s!Aj3vppp6FWCZfUifUaGDHvFrEeM?e=SSZWqx)
